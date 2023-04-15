@@ -1,4 +1,4 @@
-# translate_system
+# EasyLang
 
 A new Flutter project.
 
